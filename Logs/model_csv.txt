@@ -1,0 +1,61 @@
+2022-02-22/01:08:36		Data Preprocessing have been sucessfully Done.
+2022-02-22/01:08:37		The Processed Data have been sucessfully exported to .csv file
+2022-02-22/01:35:15		Data Preprocessing have been sucessfully Done.
+2022-02-22/01:35:15		The Processed Data have been sucessfully exported to .csv file
+2022-02-22/01:46:54		An Error have occured while preprocessing the data!!! ERROR: 'DataFrame' object has no attribute 'region'
+2022-02-22/01:47:41		An Error have occured while preprocessing the data!!! ERROR: 'DataFrame' object has no attribute 'region'
+2022-02-22/01:48:26		An Error have occured while preprocessing the data!!! ERROR: 'DataFrame' object has no attribute 'region'
+2022-02-22/01:49:50		An Error have occured while preprocessing the data!!! ERROR: 'DataFrame' object has no attribute 'region'
+2022-02-22/02:14:40		Data Preprocessing have been sucessfully Done.
+2022-02-22/02:14:40		The Processed Data have been sucessfully exported to .csv file
+2022-02-22/02:14:53		Data Preprocessing have been sucessfully Done.
+2022-02-22/02:14:53		An Error have occured while exporting the file to .csv!!! ERROR: X has 9 features, but GradientBoostingRegressor is expecting 8 features as input.
+2022-02-22/02:15:01		Data Preprocessing have been sucessfully Done.
+2022-02-22/02:15:01		An Error have occured while exporting the file to .csv!!! ERROR: X has 9 features, but GradientBoostingRegressor is expecting 8 features as input.
+2022-02-22/02:15:23		Data Preprocessing have been sucessfully Done.
+2022-02-22/02:15:23		The Processed Data have been sucessfully exported to .csv file
+2022-02-22/02:16:08		Data Preprocessing have been sucessfully Done.
+2022-02-22/02:16:09		The Processed Data have been sucessfully exported to .csv file
+2022-02-22/02:16:45		Data Preprocessing have been sucessfully Done.
+2022-02-22/02:16:45		The Processed Data have been sucessfully exported to .csv file
+2022-02-22/02:18:22		Data Preprocessing have been sucessfully Done.
+2022-02-22/02:18:22		The Processed Data have been sucessfully exported to .csv file
+2022-02-22/02:19:58		Data Preprocessing have been sucessfully Done.
+2022-02-22/02:19:58		The Processed Data have been sucessfully exported to .csv file
+2022-02-22/02:20:13		Data Preprocessing have been sucessfully Done.
+2022-02-22/02:20:13		The Processed Data have been sucessfully exported to .csv file
+2022-02-22/02:20:15		Data Preprocessing have been sucessfully Done.
+2022-02-22/02:20:15		The Processed Data have been sucessfully exported to .csv file
+2022-02-22/02:20:16		Data Preprocessing have been sucessfully Done.
+2022-02-22/02:20:16		The Processed Data have been sucessfully exported to .csv file
+2022-02-22/02:20:23		Data Preprocessing have been sucessfully Done.
+2022-02-22/02:20:23		The Processed Data have been sucessfully exported to .csv file
+2022-02-22/02:21:03		Data Preprocessing have been sucessfully Done.
+2022-02-22/02:21:03		The Processed Data have been sucessfully exported to .csv file
+2022-02-22/02:22:05		Data Preprocessing have been sucessfully Done.
+2022-02-22/02:22:05		The Processed Data have been sucessfully exported to .csv file
+2022-02-22/02:27:11		Data Preprocessing have been sucessfully Done.
+2022-02-22/02:27:11		The Processed Data have been sucessfully exported to .csv file
+2022-02-22/02:33:52		Data Preprocessing have been sucessfully Done.
+2022-02-22/02:33:52		The Processed Data have been sucessfully exported to .csv file
+2022-02-22/02:35:28		Data Preprocessing have been sucessfully Done.
+2022-02-22/02:35:28		The Processed Data have been sucessfully exported to .csv file
+2022-02-22/02:35:40		An Error have occured while preprocessing the data!!! ERROR: 'DataFrame' object has no attribute 'region'
+2022-02-22/02:36:43		Data Preprocessing have been sucessfully Done.
+2022-02-22/02:36:43		The Processed Data have been sucessfully exported to .csv file
+2022-02-22/02:36:49		Data Preprocessing have been sucessfully Done.
+2022-02-22/02:36:49		The Processed Data have been sucessfully exported to .csv file
+2022-02-22/03:40:14		An Error have occured while preprocessing the data!!! ERROR: 'DataFrame' object has no attribute 'region'
+2022-02-22/03:40:18		Data Preprocessing have been sucessfully Done.
+2022-02-22/03:40:18		The Processed Data have been sucessfully exported to .csv file
+2022-02-22/19:11:39		An Error have occured while preprocessing the data!!! ERROR: 'DataFrame' object has no attribute 'region'
+2022-02-24/00:10:53		Data Preprocessing have been sucessfully Done.
+2022-02-24/00:10:53		The Processed Data have been sucessfully exported to .csv file
+2022-02-24/00:13:02		Data Preprocessing have been sucessfully Done.
+2022-02-24/00:13:02		The Processed Data have been sucessfully exported to .csv file
+2022-02-24/00:14:49		Data Preprocessing have been sucessfully Done.
+2022-02-24/00:14:49		The Processed Data have been sucessfully exported to .csv file
+2022-02-24/00:16:32		Data Preprocessing have been sucessfully Done.
+2022-02-24/00:16:32		The Processed Data have been sucessfully exported to .csv file
+2022-02-24/00:16:41		Data Preprocessing have been sucessfully Done.
+2022-02-24/00:16:41		The Processed Data have been sucessfully exported to .csv file
